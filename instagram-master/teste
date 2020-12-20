@@ -1,0 +1,25 @@
+.instagram-phone-dark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  position: absolute;
+  left: 65px;
+  top: 70px;
+}
+
+.instagram-phone-dark img {
+  height: 40rem;
+}
+
+.instagram-phone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+  position: relative;
+}
+
+.instagram-phone img {
+  height: 40rem;
+}
